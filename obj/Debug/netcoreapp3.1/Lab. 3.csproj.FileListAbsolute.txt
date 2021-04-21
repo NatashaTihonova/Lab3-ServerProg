@@ -1,0 +1,52 @@
+D:\Серверное программирование\Lab 3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Серверное программирование\Lab 3\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Серверное программирование\Lab 3\bin\Debug\netcoreapp3.1\Data\about.json
+D:\Серверное программирование\Lab 3\bin\Debug\netcoreapp3.1\Data\contact.json
+D:\Серверное программирование\Lab 3\bin\Debug\netcoreapp3.1\Data\features.json
+D:\Серверное программирование\Lab 3\bin\Debug\netcoreapp3.1\Data\indexes.json
+D:\Серверное программирование\Lab 3\bin\Debug\netcoreapp3.1\Data\logos.json
+D:\Серверное программирование\Lab 3\bin\Debug\netcoreapp3.1\Data\portfolios.json
+D:\Серверное программирование\Lab 3\bin\Debug\netcoreapp3.1\Data\prices.json
+D:\Серверное программирование\Lab 3\bin\Debug\netcoreapp3.1\Data\services.json
+D:\Серверное программирование\Lab 3\bin\Debug\netcoreapp3.1\Data\testimonial.json
+D:\Серверное программирование\Lab 3\bin\Debug\netcoreapp3.1\Lab. 3.exe
+D:\Серверное программирование\Lab 3\bin\Debug\netcoreapp3.1\Lab. 3.deps.json
+D:\Серверное программирование\Lab 3\bin\Debug\netcoreapp3.1\Lab. 3.runtimeconfig.json
+D:\Серверное программирование\Lab 3\bin\Debug\netcoreapp3.1\Lab. 3.runtimeconfig.dev.json
+D:\Серверное программирование\Lab 3\bin\Debug\netcoreapp3.1\Lab. 3.dll
+D:\Серверное программирование\Lab 3\bin\Debug\netcoreapp3.1\Lab. 3.pdb
+D:\Серверное программирование\Lab 3\bin\Debug\netcoreapp3.1\Lab. 3.Views.dll
+D:\Серверное программирование\Lab 3\bin\Debug\netcoreapp3.1\Lab. 3.Views.pdb
+D:\Серверное программирование\Lab 3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\Lab. 3.csprojAssemblyReference.cache
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\Lab. 3.AssemblyInfoInputs.cache
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\Lab. 3.AssemblyInfo.cs
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\Lab. 3.csproj.CoreCompileInputs.cache
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\Lab. 3.MvcApplicationPartsAssemblyInfo.cache
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\Lab. 3.RazorAssemblyInfo.cache
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\Lab. 3.RazorAssemblyInfo.cs
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\staticwebassets\Lab. 3.StaticWebAssets.Manifest.cache
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\staticwebassets\Lab. 3.StaticWebAssets.xml
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\scopedcss\bundle\Lab. 3.styles.css
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\Lab. 3.TagHelpers.input.cache
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\Lab. 3.TagHelpers.output.cache
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\Lab. 3.RazorCoreGenerate.cache
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\Razor\Pages\About-us.cshtml.g.cs
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\Razor\Pages\Contact.cshtml.g.cs
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\Razor\Pages\Features.cshtml.g.cs
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\Razor\Pages\Portfolio.cshtml.g.cs
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\Razor\Pages\Pricing.cshtml.g.cs
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\Razor\Pages\Services.cshtml.g.cs
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\Razor\Pages\Testimonials.cshtml.g.cs
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\Lab. 3.RazorTargetAssemblyInfo.cache
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\Lab. 3.RazorTargetAssemblyInfo.cs
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\Lab. 3.Views.pdb
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\Lab. 3.csproj.CopyComplete
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\Lab. 3.dll
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\Lab. 3.pdb
+D:\Серверное программирование\Lab 3\obj\Debug\netcoreapp3.1\Lab. 3.genruntimeconfig.cache
